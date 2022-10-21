@@ -35,7 +35,7 @@ The King County House Dataset contains a wealth of information about the price, 
 ## Findings
 My current preferred model is able to explain about 85% of the variance in the sale prices of homes, which shows that the model is 85% accurate .
 The value of the r_squared increase as we add more predictors,with the first one being that of simple linear regression with about 24% accuracy of the model.
-All the models are statistically significant having a p_value of less than 0.005
+All the models are statistically significant having a p_value of less than 0.05
 The last model would be an ideal in predicting the current and future prices of the house.
 
 
