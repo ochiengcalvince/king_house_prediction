@@ -51,11 +51,11 @@ By using this model the Agency is able to offer reasonable advices to the homeow
 Git/ Github
 
 ## Technologies used
-Python
-Pandas Library
-Seaborn
-Matplotlib Library
-statsmodels
+- Python
+- Pandas Library
+- Seaborn
+- Matplotlib Library
+- statsmodels
 ## Author and Aknowledgement
 ochiengcalvince30 Assistance was granted from the Technical Mentors of Moringa School (Nairobi, Kenya).
 
