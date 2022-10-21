@@ -1,6 +1,7 @@
 # king_house_prediction
 ## Description
-##Project Goal
+## Project Goal
+
 The King County House Dataset contains a wealth of information about the price, size, location, condition and various other features of houses in Washington’s King County. In this article, I’ll disect how linear regression model in Python can help predict house prices , so that the Real Estate Agency can render constructive advices to homeowners of when they can buy or sell their houses and by what amount.There are several features or factors that should be looked into when performing this task and that what i am going to do.
 ## column names description
  `id` - Unique identifier for a house
